@@ -42,5 +42,5 @@ if __name__ == '__main__':
     numOfThrowsList = [100, 1000, 10000, 100000, 100000000]
 
     for i in numOfThrowsList:
-        pi_estimation = run_simulation(i) 
+        pi_estimation = run_simulation(i)
 
